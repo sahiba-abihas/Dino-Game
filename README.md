@@ -1,1 +1,1 @@
-This is a neural network to always beat a dino game (coded on eclipse!)
+This is a coded dino game with a neural network that adapts to never lose!
